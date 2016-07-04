@@ -37,9 +37,6 @@ El proyecto está desarrollado sobre
 
 Dirección: `http://localhost:8080`
 
-## Instalar en producción
-
-
 
 
 #¿Quienes trabajamos?
